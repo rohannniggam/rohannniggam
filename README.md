@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align=”center”>
-<img src="https://github.com/rohan-ngm/rohan-ngm/blob/main/banner.png">
+<img src="https://github.com/rohan-ngm/rohan-ngm/blob/main/banner.png" style="border-radius: 20px;">
 </p>
 An accomplished Tech Entrepreneur with over decade of experience, driving end-to-end digital solutions. Expert in overall Product Management like Back-end Mastery, Server Management, Front-end Excellence & Database Optimization. Passionate about leveraging cutting-edge technologies and frameworks to build scalable, future-ready solutions.
 
