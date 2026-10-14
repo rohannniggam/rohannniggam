@@ -1,6 +1,6 @@
 # Rohann Niggam
 
-Fractional product, technology and AI advisor for SaaS founders, and founder of [Aarohii AI Solution](https://aarohii.com).
+Fractional Tech & Product Advisor for SaaS & AI · Founder, Aarohii (https://aarohii.com).
 
 - Building [PixellPeep](https://www.pixellpeep.com) (visual regression testing), [Captverse](https://captverse.com) (AI business operating system) and [ViraQueue](https://viraqueue.com) (AI social media manager with human approval)
 - 14 years from QA engineering to product leadership to founding
